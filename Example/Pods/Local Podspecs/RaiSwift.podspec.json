@@ -1,0 +1,22 @@
+{
+  "name": "RaiSwift",
+  "version": "0.1.0",
+  "summary": "A short description of RaiSwift.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Jonathan Willis/RaiSwift",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Jonathan Willis": "jondwillis@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Jonathan Willis/RaiSwift.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "RaiSwift/Classes/**/*"
+}

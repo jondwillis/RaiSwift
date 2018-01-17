@@ -1,0 +1,6 @@
+framework module RaiSwift {
+  umbrella header "RaiSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+PODS:
+  - Nimble (7.0.3)
+  - Quick (1.2.0)
+  - RaiSwift (0.1.0)
+
+DEPENDENCIES:
+  - Nimble (~> 7.0.2)
+  - Quick (~> 1.2.0)
+  - RaiSwift (from `../`)
+
+EXTERNAL SOURCES:
+  RaiSwift:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Nimble: 7f5a9c447a33002645a071bddafbfb24ea70e0ac
+  Quick: 58d203b1c5e27fff7229c4c1ae445ad7069a7a08
+  RaiSwift: 8bc0ea9c31a106a45abbbea2bfdf9f58ff660bb4
+
+PODFILE CHECKSUM: ec2d991c6a15a51a0892c48b6897406ad1ce7786
+
+COCOAPODS: 1.4.0.beta.2
